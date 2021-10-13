@@ -13,6 +13,13 @@ public class Arithmetic {
 		System.out.println("x + y = " + result);
 		result = x -y;
 		System.out.println("x -y " + result);
+		result  = x  *  y;
+		System.out.println("x * y = " + result);
+		result  = x  /  y;
+		System.out.println("x / y = " + result);
+		result  = x  %  y;
+		System.out.println("x % y = " + result);
+		
 	}
 
 }
